@@ -1,4 +1,4 @@
-# E-commerce-website
+# Online-shopping-Application
 Data and Applications project
 ## How to use
 - Load the database
